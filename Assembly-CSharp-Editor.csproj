@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{6207424A-118A-320F-7C28-DA16C4D69291}</ProjectGuid>
+    <ProjectGuid>{ADBAEB17-7D2D-A7D3-48C9-D244F75A1685}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -63,16 +63,16 @@
   <ItemGroup>
     <Compile Include="Assets\TutorialInfo\Scripts\Editor\TutorialInfoEditor.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/Important/PFIEV/Research Intern/Emergency Response/Source/Building Map/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/Important/PFIEV/Research Intern/Emergency Response/Git/Building Map/Building-Map/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Important/PFIEV/Research Intern/Emergency Response/Source/Building Map/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Important/PFIEV/Research Intern/Emergency Response/Git/Building Map/Building-Map/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Important/PFIEV/Research Intern/Emergency Response/Source/Building Map/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Important/PFIEV/Research Intern/Emergency Response/Git/Building Map/Building-Map/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Important/PFIEV/Research Intern/Emergency Response/Source/Building Map/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Important/PFIEV/Research Intern/Emergency Response/Git/Building Map/Building-Map/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -362,7 +362,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{53727744-AC11-6338-DE38-C6412DB126AA}</Project>
+      <Project>{4423035C-2C55-C88E-A954-EA53EFB2F4FB}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
